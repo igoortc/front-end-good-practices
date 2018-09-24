@@ -10,6 +10,14 @@ O **CSS** é responsável por aplicar estilos às suas telas -- em outras palavr
 
 Se você não se garante muito nos seletores de CSS, uma sugestão é brincar lá no [**CSS Diner** 🍟](https://flukeout.github.io/). Acho que vai te dar uma esclarecida.
 
+{% hint style="danger" %}
+**ATENÇÃO**
+
+O **Front-end chapter** tem o seu próprio guia de estilo de CSS a ser seguido.
+
+Por favor, [leia-o e entenda](https://softboxlab.github.io/front-end-book/css/).
+{% endhint %}
+
 ### **Pré-processadores**
 
 Em alguns projetos, são utilizados [pré-processadores](https://becode.com.br/pre-processador-css-sass/) de CSS, como [**Sass**](https://sass-lang.com/guide) ****e [**Stylus**](http://stylus-lang.com/). Recomendamos que você dê uma pesquisadinha sobre esses pré-processadores para que você possa aproveitá-los ao máximo.
