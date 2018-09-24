@@ -14,4 +14,11 @@
   * [Turbinando os seus testes](guia-de-boas/turbinando-os-seus-testes.md)
 * [CSS - Guia de estilo 🎨](css-guia-de-estilo/README.md)
   * [Terminologia 👩🏼‍🏫](css-guia-de-estilo/terminologia.md)
+  * [Estilo de código 👠](css-guia-de-estilo/estilo-de-codigo.md)
+  * [Seletores em JavaScript 🐬](css-guia-de-estilo/seletores-em-javascript.md)
+  * [Especificidade 💅🏼](css-guia-de-estilo/especificidade.md)
+  * [OOCSS e BEM 👯‍♀️](css-guia-de-estilo/oocss-e-bem.md)
+  * [Desenvolvimento responsivo 📱](css-guia-de-estilo/desenvolvimento-responsivo.md)
+  * [Sass 💁🏽‍♂️](css-guia-de-estilo/sass.md)
+  * [O que NÃO fazer de jeito nenhum 🙅🏼‍♀️](css-guia-de-estilo/o-que-nao-fazer-de-jeito-nenhum.md)
 

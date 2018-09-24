@@ -1,10 +1,4 @@
----
-description: >-
-  Antes de começarmos, vamos fazer algumas definições para facilitar a sua
-  leitura.#
----
-
-# Terminologia 👩🏼‍🏫
+# Especificidade 💅🏼
 
 {% hint style="danger" %}
 **ATENÇÃO**
@@ -13,6 +7,6 @@ O **guia de estilos de CSS** ainda está sendo construído. Por favor, visite fr
 
 Também estamos migrando o conteúdo do GitHub pages para cá. Enquanto isso, leia em:
 
-[https://softboxlab.github.io/front-end-book/css/Terminologia.html](https://softboxlab.github.io/front-end-book/css/Terminologia.html)
+[https://softboxlab.github.io/front-end-book/css/Especificidade.html](https://softboxlab.github.io/front-end-book/css/Especificidade.html)
 {% endhint %}
 
