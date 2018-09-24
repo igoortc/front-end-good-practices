@@ -12,4 +12,6 @@
   * [SEO](guia-de-boas/seo.md)
   * [Git](guia-de-boas/git.md)
   * [Turbinando os seus testes](guia-de-boas/turbinando-os-seus-testes.md)
+* [CSS - Guia de estilo 🎨](css-guia-de-estilo/README.md)
+  * [Terminologia 👩🏼‍🏫](css-guia-de-estilo/terminologia.md)
 
