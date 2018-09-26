@@ -6,11 +6,6 @@ Nós queremos -- e eu garanto que você também -- que você atinga o máximo do
 
 Os seus colegas do **Front-end chapter** desenvolveram a [**MOOvelous CLI**](https://github.com/SoftboxLab/moo-cli) ****🤠 \([_command-line interface_](https://pt.stackoverflow.com/questions/242032/o-que-%C3%A9-exatamente-uma-cli)\), que tem como principal objetivo agilizar o desenvolvimento de componentes, realizando boa parte do trabalho que em tempos passados você teria que fazer na mão. 
 
-Olha só algumas das funcionalidades da nossa CLI:
-
-* \(MODIFICAR\) Func 1
-* Func 2
-
 ### Visual Code
 
 O [**Visual Code**](https://code.visualstudio.com/) é a IDE favorita para desenvolvimento Front-end na Softbox, por ser organizada, agradável visualmente e também conter uma extensa [lista de _plugins_](https://gist.github.com/thaisribeiro/0a280453ee716ceddc9f0470816f7a57) que ajudam no desenvolvimento. Se você ainda não conhece, dá uma [olhada](https://code.visualstudio.com/)!
