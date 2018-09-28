@@ -1,6 +1,6 @@
 # SEO
 
-**SEO** \(Seach Engine Optimization\) é um termo que não é muito familiar para muitos desenvolvedores, mas é um conceito muito importante a ser considerado no desenvolvimento de aplicações Web e diz respeito à otimização para mecanismos de busca.
+**SEO** \(Search Engine Optimization\) é um termo que não é muito familiar para muitos desenvolvedores, mas é um conceito muito importante a ser considerado no desenvolvimento de aplicações Web e diz respeito à otimização para mecanismos de busca.
 
 É interessante que você busque um pouco sobre o assunto para que suas aplicações fiquem no topo. Recomendamos que leia [este](https://marketingdeconteudo.com/o-que-e-seo/) e [este](http://www.seomaster.com.br/blog/o-que-e-seo) link.
 
