@@ -24,37 +24,41 @@ Temos algumas dicas básicas que, se seguidas corretamente, farão uma grande di
 
   Exemplo:
 
-  `function irAteACozinha() {`
+  ```js
+  function irAteACozinha() {
 
-      `//ir até a cozinha`
+      //ir até a cozinha
 
-  `}`
+  }
 
-  `function tomarCafe() {`
+  function tomarCafe() {
 
-      `//tomar café`
+      //tomar café
 
-  `}`
+  }
 
-  `function tirarIntervaloDeCafe() {`
+  function tirarIntervaloDeCafe() {
 
-      `irAteACozinha()`
+      irAteACozinha()
 
-      `tomarCafe()`
+      tomarCafe()
 
-  `}`
+  }
+  ```
 
 
 
   ao invés de:
 
-  `function cafe() {`
+  ```js
+  function cafe() {
 
-      `//ir até a cozinha`
+      //ir até a cozinha
 
-      `//tomar café`
+      //tomar café
 
-  `}`
+  }
+  ```
 
 * Não seja redundante \(lembre-se dos [padrões](seguindo-alguns-padroes.md)!\)
 * Refatorar! Se você viu um código \(seu ou de outra pessoa\) que poderia ser simplificado ou escrito de uma forma mais legível, refatore! 
