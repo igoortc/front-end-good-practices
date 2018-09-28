@@ -1,9 +1,3 @@
----
-description: >-
-  Antes de começarmos, vamos fazer algumas definições para facilitar a sua
-  leitura.#
----
-
 # Terminologia 👩🏼‍🏫
 
 {% hint style="danger" %}

@@ -1,7 +1,3 @@
----
-description: Porque desenvolvedor também tem que testar o próprio código!
----
-
 # Turbinando os seus testes
 
 ![Testando, testando... 1, 2, 3](../.gitbook/assets/test.png)

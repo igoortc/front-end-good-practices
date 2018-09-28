@@ -1,7 +1,3 @@
----
-description: "\U0001F49B\U0001F49B\U0001F49B"
----
-
 # JavaScript
 
 Você está na terra do [thrust.js 🚀,](https://github.com/Thrustjs) então é CLARO que a gente vai falar sobre **JavaScript**, né? É uma das linguagens de programação mais utilizada na **Softbox** e é importante que você saiba utilizá-la da melhor forma.

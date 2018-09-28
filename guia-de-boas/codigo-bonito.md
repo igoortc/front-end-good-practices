@@ -8,11 +8,11 @@ Eu não sei você, mas eu conheço muitos desenvolvedores que não conseguem lid
 
 ![S&#xE9;rio... pra mim n&#xE3;o d&#xE1;](../.gitbook/assets/canteven.jpg)
 
-### gandalf-lint 🧙🏼‍♂️
+## gandalf-lint 🧙🏼‍♂️
 
 É claro que os seus amigos da Soft já vão te dar um empurrãozinho para que você possa produzir códigos lindos 🦄 e acessíveis para todo mundo. Nós temos o nosso próprio [linter](https://willianjusten.com.br/analisando-seu-codigo-js-com-linter/) que irá prevenir você de commitar um código que não funciona ou que não segue algum padrão que já foi definido previamente pelo **Front-end chapter**. O uso da [**gandalf-lint**](https://github.com/SoftboxLab/gandalf-lint) é obrigatório para todos os front-enders da Soft, garantindo que _your bad code shall not pass_ nem causar mil tretas em produção.
 
-### Algumas diquinhas
+## Algumas diquinhas
 
 Temos algumas dicas básicas que, se seguidas corretamente, farão uma grande diferença para você e para os seus colegas desenvolvedores. Às vezes, segui-las com cuidado pode ser a diferença entre conseguir estender um pouquinho o seu café ☕️ e passar duas horas tentando entender aquele código que você escreveu um mês atrás!
 
@@ -24,7 +24,7 @@ Temos algumas dicas básicas que, se seguidas corretamente, farão uma grande di
 
   Exemplo:
 
-  ```js
+  ```javascript
   function irAteACozinha() {
 
       //ir até a cozinha
@@ -46,11 +46,9 @@ Temos algumas dicas básicas que, se seguidas corretamente, farão uma grande di
   }
   ```
 
+ao invés de:
 
-
-  ao invés de:
-
-  ```js
+```javascript
   function cafe() {
 
       //ir até a cozinha
@@ -58,7 +56,7 @@ Temos algumas dicas básicas que, se seguidas corretamente, farão uma grande di
       //tomar café
 
   }
-  ```
+```
 
 * Não seja redundante \(lembre-se dos [padrões](seguindo-alguns-padroes.md)!\)
 * Refatorar! Se você viu um código \(seu ou de outra pessoa\) que poderia ser simplificado ou escrito de uma forma mais legível, refatore! 

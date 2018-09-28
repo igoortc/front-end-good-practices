@@ -1,7 +1,3 @@
----
-description: "\"A dúvida é o princípio da sabedoria\" - Aristóteles \U0001F913"
----
-
 # Seguindo alguns princípios
 
 De forma geral, em programação, devemos seguir alguns princípios para produzir o melhor código possível. Citaremos alguns aqui e queremos que os considere durante o desenvolvimento de seus códigos na **Softbox**.

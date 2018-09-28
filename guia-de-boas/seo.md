@@ -1,7 +1,3 @@
----
-description: É muito bom aparecer no topo da pesquisa do Google
----
-
 # SEO
 
 **SEO** \(Seach Engine Optimization\) é um termo que não é muito familiar para muitos desenvolvedores, mas é um conceito muito importante a ser considerado no desenvolvimento de aplicações Web e diz respeito à otimização para mecanismos de busca.

@@ -1,7 +1,3 @@
----
-description: "Porque estilo é tudo! \U0001F481\U0001F3FC‍♀️✨"
----
-
 # Guias de estilo
 
 Quando você está desenvolvendo, é importante seguir um padrão \(como já [foi dito em outras páginas](codigo-bonito.md) deste guia\). Algumas linguagens, bibliotecas e frameworks já têm seus padrões, que são definidos pelos seus próprios criadores \(ou time de desenvolvedores\) ou pela própria comunidade. Esses padrões são chamados de **guias de estilo**, que têm como objetivo informá-lo \(a\) sobre como produzir o melhor código possível, com a menor probabilidade de erros e mais acessível para você e para os outros.

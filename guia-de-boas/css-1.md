@@ -1,7 +1,3 @@
----
-description: "Que lindas as suas folhas de estilo em cascata! \U0001F46F‍♀️"
----
-
 # CSS
 
 ![Explicando CSS em um GIF](../.gitbook/assets/css.gif)

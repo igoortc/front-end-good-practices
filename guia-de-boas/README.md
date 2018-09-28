@@ -1,7 +1,3 @@
----
-description: "Este guia explica sobre as boas práticas a serem seguidas durante o desenvolvimento do front-end de suas aplicações na Softbox. Happy coding! \U0001F604"
----
-
 # Guia de boas práticas
 
 ### Por que eu devo codificar de acordo com essas boas práticas?

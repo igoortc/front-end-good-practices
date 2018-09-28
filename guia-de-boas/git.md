@@ -1,7 +1,3 @@
----
-description: Keep calm and Git Stash
----
-
 # Git
 
 O **Git** é um sistema de controle de versão que permite gerenciar diferentes versões de arquivos, de forma que seja possível recuperar versões salvas, reverter todo um projeto ou comparar mudanças que foram feitas de uma versão para a outra.
