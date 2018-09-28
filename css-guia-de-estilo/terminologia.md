@@ -1,7 +1,3 @@
----
-description: "Antes de começarmos, vamos fazer algumas definições para facilitar a sua leitura \U0001F469\U0001F3FC‍\U0001F3EB"
----
-
 # Terminologia
 
 ## Seletores

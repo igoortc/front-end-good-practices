@@ -1,16 +1,13 @@
----
-description: "Uma pequena discussão sobre o assunto  \U0001F485\U0001F3FC"
----
-
 # Especificidade
 
-{% hint style="danger" %}
-**ATENÇÃO**
+{% hint style="warning" %}
+**EM BREVE**
+{% endhint %}
 
-O **guia de estilos de CSS** ainda está sendo construído. Por favor, visite frequentemente esta página para conferir se há algo novo.
+{% hint style="info" %}
+**Leitura extra**
 
-Também estamos migrando o conteúdo do GitHub pages para cá. Enquanto isso, leia esta página em:
-
-[https://softboxlab.github.io/front-end-book/css/Especificidade.html](https://softboxlab.github.io/front-end-book/css/Especificidade.html)
+* [CSS Diner](https://flukeout.github.io/)
+* [Hacks for dealing with specificity](https://csswizardry.com/2014/07/hacks-for-dealing-with-specificity/)
 {% endhint %}
 

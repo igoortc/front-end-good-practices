@@ -1,7 +1,3 @@
----
-description: "Codificando com estilo \U0001F460"
----
-
 # Estilo de código
 
 ## Espaçamento
