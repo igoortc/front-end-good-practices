@@ -11,7 +11,7 @@ Se você não se garante muito nos seletores de CSS, uma sugestão é brincar l�
 
 O **Front-end chapter** tem o seu próprio guia de estilo de CSS a ser seguido.
 
-Por favor, [leia-o e entenda](https://softboxlab.github.io/front-end-book/css/).
+Por favor, [leia-o e entenda](../css-guia-de-estilo/).
 {% endhint %}
 
 ### **Pré-processadores**
