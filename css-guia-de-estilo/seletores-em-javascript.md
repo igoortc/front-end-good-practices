@@ -1,4 +1,8 @@
-# Seletores em JavaScript 🐬
+---
+description: "Pra manter o seu CSS e o seu JavaScript organizados \U0001F42C"
+---
+
+# Seletores em JavaScript
 
 {% hint style="danger" %}
 **ATENÇÃO**

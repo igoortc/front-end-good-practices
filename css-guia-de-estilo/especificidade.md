@@ -1,4 +1,8 @@
-# Especificidade 💅🏼
+---
+description: "Uma pequena discussão sobre o assunto  \U0001F485\U0001F3FC"
+---
+
+# Especificidade
 
 {% hint style="danger" %}
 **ATENÇÃO**
