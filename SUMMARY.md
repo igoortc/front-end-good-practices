@@ -15,7 +15,7 @@
 * [CSS - Guia de estilo 🎨](css-guia-de-estilo/README.md)
   * [Terminologia](css-guia-de-estilo/terminologia.md)
   * [Estilo de código](css-guia-de-estilo/estilo-de-codigo.md)
-  * [Seletores em JavaScript](css-guia-de-estilo/seletores-em-javascript.md)
+  * [Acessando a DOM no JavaScript](css-guia-de-estilo/seletores-em-javascript.md)
   * [Especificidade](css-guia-de-estilo/especificidade.md)
   * [OOCSS e BEM](css-guia-de-estilo/oocss-e-bem.md)
   * [Desenvolvimento responsivo](css-guia-de-estilo/desenvolvimento-responsivo.md)
