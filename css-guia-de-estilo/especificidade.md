@@ -22,4 +22,5 @@ Trabalhar com seletores CSS e especificidade é algo que assombra todo mundo de 
 * Nunca crie regras contendo apenas as classes `disabled`, `mousedown`, `danger`, `selected` e `active`. Exemplo: `li.active` ao invés de apenas `.active`.
 * Evite utilizar elementos \(`span`, `div`, `p`, etc\) como seletores. No início pode parecer tudo OK, mas quando o seu código for crescendo, você provavelmente vai perceber que acabou dando um tiro no pé. Faça isso apenas quando tiver certeza de que não haverá mudanças na estrutura do código, mas se houver dúvida, utilize classes.
 * Dê sentido aos seus seletores. Um `span` ou `div` não têm nenhuma semântica, `header` tem um pouco... é muito melhor criar uma classe com um bom nome, como `.lista-centralizada` ao invés de um outro que não tenha quase nenhum significado \(tipo `.lista`\). Você e seus colegas terão um código muito mais legível e vão gastar muito menos tempo com refatoramento.
+* Não aninhe seletores em mais de três níveis. Ao criar regras longas, seu CSS provavelmente estará muito frágil \(bastante associado ao HTML\) ou muito resistente \(bastante específico\) ou não reutilizável.
 
