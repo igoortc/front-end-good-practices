@@ -1,5 +1,5 @@
 ---
-description: "Porque às vezes é saudável seguir uns padrões de desenvolvimento \U0001F46F‍♀️"
+description: "Porque às vezes é saudável seguir uns padrões de desenvolvimento \uD83D\uDC6F‍♀️"
 ---
 
 # OOCSS e BEM

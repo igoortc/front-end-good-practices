@@ -1,5 +1,5 @@
 ---
-description: "Pelamor, né, gente \U0001F645\U0001F3FC‍♀️"
+description: "Pelamor, né, gente \uD83D\uDE45\uD83C\uDFFC‍♀️"
 ---
 
 # O que NÃO fazer de jeito nenhum

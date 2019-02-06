@@ -1,5 +1,5 @@
 ---
-description: "Por que quem gosta de código feio, né? \U0001F9DF‍♂️"
+description: "Por que quem gosta de código feio, né? \uD83E\uDDDF‍♂️"
 ---
 
 # Código limpo e bonito

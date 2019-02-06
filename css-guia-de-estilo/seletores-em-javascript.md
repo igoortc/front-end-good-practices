@@ -1,5 +1,5 @@
 ---
-description: "Pra manter o seu CSS e o seu JavaScript organizados \U0001F42C"
+description: "Pra manter o seu CSS e o seu JavaScript organizados \uD83D\uDC2C"
 ---
 
 # Acessando a DOM no JavaScript

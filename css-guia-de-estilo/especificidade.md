@@ -1,5 +1,5 @@
 ---
-description: "Uma pequena discussão sobre o assunto \U0001F485\U0001F3FC"
+description: "Uma pequena discussão sobre o assunto \uD83D\uDC85\uD83C\uDFFC"
 ---
 
 # Especificidade

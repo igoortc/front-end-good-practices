@@ -1,5 +1,5 @@
 ---
-description: "Codificando com estilo \U0001F460"
+description: "Codificando com estilo \uD83D\uDC60"
 ---
 
 # Estilo de código

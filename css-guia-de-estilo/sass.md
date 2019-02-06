@@ -1,5 +1,5 @@
 ---
-description: "Syntactically Awesome Style Sheets \U0001F481\U0001F3FD‍♂️"
+description: "Syntactically Awesome Style Sheets \uD83D\uDC81\uD83C\uDFFD‍♂️"
 ---
 
 # Sass

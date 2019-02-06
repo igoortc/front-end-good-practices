@@ -21,13 +21,15 @@ As cheatsheets são as famosas "colinhas" e existem algumas muito boas voltadas 
 * [Devhints](https://devhints.io/)
 * [Learn Anything](https://learn-anything.xyz/)
 
-### Vue.js
-
-O **Vue.js** é o [framework](https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/) queridinho 💚 da maioria dos desenvolvedores da **Soft**. É um framework progressivo para a construção de interfaces de usuário. Alguns de seus principais atrativos são a baixa curva de aprendizado e também o fato de ser bastante leve, o que faz com que o carregamento de projetos **Vue** seja bastante rápido. Você pode saber mais visitando a [página oficial](https://br.vuejs.org/v2/guide/index.html).
-
 ### React
 
-**React** ⚛️ é uma [biblioteca](https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/) que, junto com o **Vue**, faz parte da stack de desenvolvimento front-end da **Softbox**. O **React** facilita a criação de interfaces de usuário interativas e é facilmente escalável, sendo excelente para a construção de grandes projetos \(além disso, tem um extenso ecossistema\). Saiba mais visitando a [página oficial](https://reactjs.org/).
+**React** ⚛️ é uma [biblioteca](https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/) que, junto com o **Vue**, faz parte da stack de desenvolvimento front-end da **Softbox**. O **React** facilita a criação de interfaces de usuário interativas e é facilmente escalável, sendo excelente para a construção de grandes projetos \(além disso, tem um extenso ecossistema\). Saiba mais visitando a [página oficial](https://reactjs.org/), além de ser o framework utilizado pela [LuizaLabs](https://medium.com/luizalabs).
+
+### Vue.js
+
+O **Vue.js** é o [framework](https://becode.com.br/framework-biblioteca-api-entenda-as-diferencas/) muito querido 💚 pela maioria dos desenvolvedores da **Softbox** e devido aos diversos projetos realizados com Vue, com certeza será o que você mais conseguirá ajuda **:\)**.  É um framework progressivo para a construção de interfaces de usuário. Alguns de seus principais atrativos são a baixa curva de aprendizado e também o fato de ser bastante leve, o que faz com que o carregamento de projetos **Vue** seja bastante rápido. Você pode saber mais visitando a [página oficial](https://br.vuejs.org/v2/guide/index.html).
+
+Se ainda não se sente confortável com o React, nós recomendamos este [`guia`](https://reactjs.org/docs/hello-world.html) pra você 
 
 {% hint style="info" %}
 **Leitura extra**
